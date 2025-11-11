@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import heroBackgroundImage from '../assets/Fight-cancer.jpg';
+import heroBackgroundImage from '../assets/Fight-Cancer.jpg';
 
 // --- Animation Variants (no change) ---
 const textContainer = {
