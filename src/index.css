@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+:root {
+  --brand-purple: #8B5CF6;
+  --brand-light-purple: #C4B5FD;
+  --brand-dark-purple: #5B21B6;
+  --accent-pink: #EC4899;
+}
